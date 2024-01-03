@@ -7,9 +7,9 @@ Welcome to my Data Structure Fall-2023 repository! Here, you'll find a collectio
 
 ### Assignments
 
-- **[Assignment 1](assignment/assignment1)**: Shifting & Rotating problems are solved by this assignment.
-- **[Assignment 2](assignment/assignment2)**: This assignment for Linked list topic.
-- **[Assignment 3](assignment/assignment3)**: This assignment for recursion topic.
+- **[Assignment 1](src/assignment/assignment1)**: Shifting & Rotating problems are solved by this assignment.
+- **[Assignment 2](src/assignment/assignment2)**: This assignment for Linked list topic.
+- **[Assignment 3](src/assignment/assignment3)**: This assignment for recursion topic.
 
 ### Exams
 
