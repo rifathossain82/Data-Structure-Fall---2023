@@ -31,11 +31,11 @@ Welcome to my **Data Structure Fall-2023** repository! Here, you'll find a colle
 - **[Power Calculation](src/practice/power_calculation.c)**
 - **[Remove Elements from Array](src/practice/remove_all_array_elements.c)**
 - **[Remove Array](src/practice/remove_array.c)**
-- **[Reverse Array](src/practice/reverse_array.c.c)**
-- **[Reverse Printing](src/practice/reverse_printing.c.c)**
-- **[Rotating Left Shift](src/practice/rotating_left_shifting.c.c)**
-- **[Rotating Right Shift](src/practice/rotating_right_shifting.c.c)**
-- **[Sub of Natural Numbers](src/practice/sum_of_natural_numbers.c.c)**
+- **[Reverse Array](src/practice/reverse_array.c)**
+- **[Reverse Printing](src/practice/reverse_printing.c)**
+- **[Rotating Left Shift](src/practice/rotating_left_shifting.c)**
+- **[Rotating Right Shift](src/practice/rotating_right_shifting.c)**
+- **[Sub of Natural Numbers](src/practice/sum_of_natural_numbers.c)**
 
 ## Structure
 
